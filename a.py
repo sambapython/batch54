@@ -1,6 +1,8 @@
-a = 10
-b = 20
-c = a + b
-print(c)
-print("sdfsdfsdfsdjkljflk fsd fsdjfdsjfl sdjfklsdjfkjdskfjsdklf\
-jdskljfsdfjlksdjfsdkljfsdlkj")
+a=10
+b=20
+print(a>b)
+if a>b:
+    print("a is big")
+else:
+    print("b is big")
+print("thanks you..")
