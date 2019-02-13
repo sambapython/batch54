@@ -1,0 +1,6 @@
+data:
+- {id: 1, name: jay, sal: 12345}
+- {id: 2, name: sai, sal: 12346}
+- {id: 3, name: vedha, sal: 12347}
+- {id: 4, name: samba, sal: 12348}
+metadata: {size: 25MB}
