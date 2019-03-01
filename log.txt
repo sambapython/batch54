@@ -1,0 +1,24 @@
+INFO:root:welcome
+INFO:root:a value given by user
+INFO:root:user entered b value
+INFO:root:open a file in append mode
+DEBUG:root:before conversion a=12,b=6
+INFO:root:a value converted
+INFO:root:b value converted
+DEBUG:root:after conversion a=12.0,b=6.0
+INFO:root:calculated the resule
+DEBUG:root:Result=2.0
+INFO:root:writing the result in to file.
+INFO:root:Thank you!!
+2019-03-01 07:43:40,304==>INFO=>welcome
+2019-03-01 07:43:41,816==>INFO=>a value given by user
+2019-03-01 07:43:42,267==>INFO=>user entered b value
+2019-03-01 07:43:42,267==>INFO=>open a file in append mode
+2019-03-01 07:43:42,267==>DEBUG=>before conversion a=12,b=6
+2019-03-01 07:43:42,268==>INFO=>a value converted
+2019-03-01 07:43:42,268==>INFO=>b value converted
+2019-03-01 07:43:42,268==>DEBUG=>after conversion a=12.0,b=6.0
+2019-03-01 07:43:42,268==>INFO=>calculated the resule
+2019-03-01 07:43:42,268==>DEBUG=>Result=2.0
+2019-03-01 07:43:42,268==>INFO=>writing the result in to file.
+2019-03-01 07:43:42,268==>INFO=>Thank you!!
